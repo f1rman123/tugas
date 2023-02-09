@@ -1,0 +1,51 @@
+.jumbotron {
+    background-image: url(assets/img/dashboard.jpg);
+    background-size: cover;
+    height: 720px;
+    text-align: center;
+    /* margin-top: -120px; */
+}
+.jumbotron .display-4 {
+    color: 	#1f1e1e;
+    margin-top: 200px;
+}
+.jumbotron p {
+    color: rgb(12, 12, 12);
+    font-size: 20px;
+}
+.jumbotron hr {
+    border-color: #202020;
+    width: 70px;
+    border-width: 3px;
+}
+.jumbotron .btn {
+    background-color: #f70a0a ;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 4px;
+}
+
+.navbar span {
+    color: #202020;
+    font-style: italic;
+}
+
+h4 {
+    font-weight: 700;
+}
+
+.fa-star {
+    color: 	#FFD700;
+}
+.fa-star-half-alt {
+    color: 	#FFD700;
+}
+
+.fa-youtube{
+    color: red;
+}
+.fa-facebook{
+    color: blue;
+}
